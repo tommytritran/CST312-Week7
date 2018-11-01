@@ -17,7 +17,7 @@ Time spent: **3** hours spent in total
 - [x] Steps to recreate: 
     1. Create or edit a new post
     2. Use the Text editor, not visual editor
-    3. add an embeded link like this [embed src='https://www.youtube.com/embed/MEqjP3sn4bI\x3csvg <onload=alert("HACK")\x3e'][/embed]
+    3. add an embeded link like this [embed src='https://www.youtube.com/embed/MEqjP3sn4bI\x3csvg onload=alert("HACK")\x3e'][/embed]
 - [ ] Affected source code:
 - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 1. Media file XXS

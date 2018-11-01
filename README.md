@@ -1,7 +1,7 @@
 
 # Project 7 - WordPress Pentesting
 
-Time spent: **3** hours spent in total
+Time spent: **4** hours spent in total
 
 > Objective: Find, analyze, recreate, and document **five vulnerabilities** affecting an old version of WordPress
 
@@ -13,7 +13,7 @@ Time spent: **3** hours spent in total
 - Tested in version: 4.2
 - Fixed in version: 4.7.3
 - [x] GIF Walkthrough: 
-<img src="https://i.imgur.com/pueqPij.gif" width="800">
+    <img src="https://i.imgur.com/pueqPij.gif" width="800">
 - [x] Steps to recreate: 
     1. Create or edit a new post
     2. Use the Text editor, not visual editor
@@ -26,7 +26,7 @@ Time spent: **3** hours spent in total
 - Tested in version: 4.2
 - Fixed in version: 4.7.3
 - [x] GIF Walkthrough: 
-<img src="https://i.imgur.com/Q1XZtqI.gif" width="800">
+    <img src="https://i.imgur.com/Q1XZtqI.gif" width="800">
 - [x] Steps to recreate:
     1. Upload a new Media file
     2. Add a description containing XSS "Description <script>alert("HACK");</script>"
@@ -38,7 +38,7 @@ Time spent: **3** hours spent in total
 - Tested in version: 4.2
 - Fixed in version: 4.3.1
 - [x] GIF Walkthrough: 
-<img src="https://i.imgur.com/kCaTJon.gif" width="800">
+    <img src="https://i.imgur.com/kCaTJon.gif" width="800">
 - [x] Steps to recreate: 
     1. add/edit a post
     2. add a tag similar to this [caption width="1" caption='<a href="' ">]</a><a href=" onmouseover='alert("HACK")' ">Button</a>
